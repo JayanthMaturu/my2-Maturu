@@ -9,3 +9,7 @@ Memorable Activities & Food
 1. River Rafting
 2. Trekking
 3. paragliding
+
+* Kesar
+* Chana Madra
+* Aktori
