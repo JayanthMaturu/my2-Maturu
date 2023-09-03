@@ -13,3 +13,5 @@ Memorable Activities & Food
 * Kesar
 * Chana Madra
 * Aktori
+
+**[Goto MyStats](MyStats.md)**
