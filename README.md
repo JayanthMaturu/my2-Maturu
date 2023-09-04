@@ -32,7 +32,7 @@ Sports are the best source of physical activities. Most of the sports include vo
 Quotes
 ---
 >Try to learn something about everything and everything about something
->-*Thomas Huxley*
+>>-*Thomas Huxley*
 
 >You cant't defend. You can't prevent. the only thing you can do is detect and respond.
->-*Bruce Schneier*
+>>-*Bruce Schneier*
