@@ -38,7 +38,7 @@ Quotes
 Code Fencing
 ---
 >I'm trying to implement a SASS function that will convert pixels to ems for our application and running into trouble.My issue is that it only works if I have the .k-grid-header class and I don't really understand why. I would think the second class that calls the function would be enough to set the size. - [StackOverflow](https://stackoverflow.com/questions/53871707/sass-function-to-convert-px-to-em) <br>
-Source-code for the approach- [Source Code](https://https://css-tricks.com/snippets/sass/px-to-em-functions/)
+Source-code for the approach- [Source Code](https://css-tricks.com/snippets/sass/px-to-em-functions/)
 ~~~
 @function calc-em($target-px, $context) {
   @return ($target-px / $context) * 1em;
